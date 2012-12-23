@@ -1,15 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RandomListLib/RandomList.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RandomListLib/Tests.cs">
     <Files>
-      <File FileName="RandomListLib/Tests.cs" Line="19" Column="8" />
+      <File FileName="RandomListLib/Tests.cs" Line="25" Column="4" />
       <File FileName="RandomListLib/RandomList.cs" Line="7" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="RandomListLib" expanded="True">
-            <Node name="RandomList.cs" selected="True" />
+            <Node name="Tests.cs" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -24,7 +24,7 @@
       </Pad>
       <Pad Id="MonoDevelop.NUnit.TestPad">
         <State expanded="True">
-          <Node name="RandomListLib" expanded="True" selected="True" />
+          <Node name="RandomListLib" selected="True" />
         </State>
       </Pad>
     </Pads>
